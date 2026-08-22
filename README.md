@@ -1,8 +1,8 @@
-# Hi, I'm Niels 👋
+# Hi, I'm Niels Weil
 
 I am an Economics and Management student at the University of Strasbourg, with a strong interest in quantitative finance, market making and financial markets.
 
-Alongside my academic studies, I am developing my programming and quantitative modelling skills through applied Python projects, but also my fundamental skills with projects like Three-Statement-Analysis or Equity Research Projects. My long-term ambition is to establish my own investment fund and develop strategies based on my own trading ideas. I am particularly interested in combining quantitative methods with fundamental analysis to make informed investment decisions.
+Alongside my academic studies, I am developing my programming and quantitative modelling skills through applied Python projects, but also my fundamental skills with projects like Three-Statement-Analysis or Equity Research Projects. My long-term ambition is to establish my own investment fund and develop strategies based on my own trading ideas. I am particularly interested in combining quantitative methods with fundamental analysis, working across different asset classes and developing a deeper understanding of how each market operates.
 
 ## Featured Project
 
