@@ -29,6 +29,7 @@ Implementation and comparison of three Value at Risk methods on a multi-asset po
 * Monte Carlo VaR
 
 The project estimates potential portfolio losses at 95% and 99% confidence levels and highlights the assumptions and limitations of each method.
+[View the project](https://github.com/nielsweil25/3-Value-At-Risk-Comparison-on-the-Same-Portfolio)
 
 ### Portfolio Optimisation
 
