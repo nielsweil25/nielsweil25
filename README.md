@@ -34,9 +34,9 @@ The project estimates potential portfolio losses at 95% and 99% confidence level
 
 ### Portfolio Optimisation
 
-Construction of a Markowitz efficient frontier to identify optimal portfolio allocations and compare their risk-adjusted performance with the S&P 500.
+This project explores how to allocate capital across five assets to maximize the estimated Sharpe ratio. It applies the mean–variance framework to historical market data, solves a constrained optimization problem, and compares the result with 5,000 randomly generated portfolios.
 
-[View the project]
+[View the project](https://github.com/nielsweil25/Portfolio-Optimization)
 
 ### Financial Modelling and Equity Research
 
