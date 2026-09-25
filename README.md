@@ -36,6 +36,8 @@ The project estimates potential portfolio losses at 95% and 99% confidence level
 
 Construction of a Markowitz efficient frontier to identify optimal portfolio allocations and compare their risk-adjusted performance with the S&P 500.
 
+[View the project]
+
 ### Financial Modelling and Equity Research
 
 Three-statement financial model and equity research analysis of Target Corporation.
