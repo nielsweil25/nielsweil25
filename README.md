@@ -18,6 +18,15 @@ Python implementation of an inventory-based market-making model, including:
 
 [View the project](https://github.com/nielsweil25/Avellaneda-Stoikov-Model)
 
+### Implied Volatility & Smile Interpolation
+* Implemented Black–Scholes pricing for European call options.
+* Recovered implied volatility using bisection and Newton’s method.
+* Compared convergence speed and numerical accuracy.
+* Reconstructed a synthetic volatility smile using Lagrange interpolation.
+* Visualized the results and measured interpolation errors.
+
+[View project →](https://github.com/nielsweil25/Implied-Volatility-and-Smile-Interpolation-using-Lagrange-Interpolation)
+
 ## Other Projects
 
 ### Value at Risk Modelling
