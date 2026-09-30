@@ -25,7 +25,7 @@ Python implementation of an inventory-based market-making model, including:
 * Reconstructed a synthetic volatility smile using Lagrange interpolation.
 * Visualized the results and measured interpolation errors.
 
-[View project →](https://github.com/nielsweil25/Implied-Volatility-and-Smile-Interpolation-using-Lagrange-Interpolation)
+[View project →](https://github.com/nielsweil25/Implied-Volatility-and-Smile-Interpolation-using-Lagrange-Interpolation/blob/main/Implied%20Volalitily%20Interpolation.ipynb)
 
 ## Other Projects
 
