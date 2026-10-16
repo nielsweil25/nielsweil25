@@ -27,6 +27,18 @@ Python implementation of an inventory-based market-making model, including:
 
 [View project →](https://github.com/nielsweil25/Implied-Volatility-and-Smile-Interpolation-using-Lagrange-Interpolation/blob/main/Implied%20Volalitily%20Interpolation.ipynb)
 
+### Machine Learning for Stock Returns — Linear Regression from Scratch
+
+Implemented a supervised learning algorithm from scratch using NumPy, applying linear regression to Microsoft’s monthly excess returns from 2015 to 2025.
+
+* Built the learning algorithm: Implemented model predictions, squared-error loss, analytical gradients, and batch gradient descent without a machine learning framework.
+* Prepared financial data: Converted adjusted stock prices into monthly excess returns and aligned them with Fama–French factors.
+* Expanded the feature set: Extended a single-feature model using market excess returns to a multivariate model incorporating size (SMB) and value (HML).
+* Tracked training progress: Recorded the loss across 100,000 iterations and visualized convergence and observed versus fitted returns.
+* Evaluated model fit: Increased in-sample R² from 0.415 to 0.601 with the additional features.
+
+[View project →](https://github.com/nielsweil25/Introduction-to-Machine-Learning/blob/main/ML%20introduction.ipynb)
+
 ## Other Projects
 
 ### Value at Risk Modelling
